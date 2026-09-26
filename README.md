@@ -8,4 +8,4 @@ working where marketing and data science meet: dashboards, customer insights and
 **Featured projects**
 Coming soon....
 
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/christina-gera/))
+[LinkedIn](https://www.linkedin.com/in/christina-gera/)
